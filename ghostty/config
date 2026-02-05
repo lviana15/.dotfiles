@@ -1,0 +1,10 @@
+gtk-single-instance = true
+font-family = "FiraCode Nerd Font"
+font-size = 12
+
+theme = "Cyberpunk Scarlet Protocol"
+
+shell-integration-features = no-cursor 
+
+clipboard-read = allow
+clipboard-write = allow
