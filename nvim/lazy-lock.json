@@ -23,5 +23,6 @@
   "telescope.nvim": { "branch": "master", "commit": "a0bbec21143c7bc5f8bb02e0005fa0b982edc026" },
   "vesper.nvim": { "branch": "main", "commit": "1717b1ad657c94bec3fc2bdebb0c55452d9fe46d" },
   "vim-fugitive": { "branch": "master", "commit": "61b51c09b7c9ce04e821f6cf76ea4f6f903e3cf4" },
-  "vim-ocaml": { "branch": "master", "commit": "81be9d05d4ce84be7e118754d0b777006f9c85fb" }
+  "vim-ocaml": { "branch": "master", "commit": "81be9d05d4ce84be7e118754d0b777006f9c85fb" },
+  "vim-tmux-navigator": { "branch": "master", "commit": "e41c431a0c7b7388ae7ba341f01a0d217eb3a432" }
 }
