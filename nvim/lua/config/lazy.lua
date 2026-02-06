@@ -65,4 +65,4 @@ require("lazy").setup({
 	},
 })
 
-vim.cmd.colorscheme("material-deep-ocean")
+vim.cmd.colorscheme("beru")

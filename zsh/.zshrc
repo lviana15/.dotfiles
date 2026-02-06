@@ -121,3 +121,5 @@ export NVM_DIR="$HOME/.nvm"
 
 # opencode
 export PATH=/home/lucas/.opencode/bin:$PATH
+
+alias e='eza -l'
